@@ -1287,6 +1287,11 @@ ul {
   box-shadow: 0 0 0 3px $brand_color;
   text-decoration: none;
 }
+
+.blocks-item-icon {
+  align-self: center;
+}
+
 .blocks-item-title {
   margin-bottom: 0;
   font-size: 16px;
