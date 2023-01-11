@@ -1290,11 +1290,13 @@ ul {
 
 .blocks-item-icon {
   align-self: center;
+  margin-bottom: 10px;
 }
 
 .blocks-item-title {
   margin-bottom: 0;
   font-size: 16px;
+  font-weight: bold;
 }
 .blocks-item-description {
   margin: 0;
