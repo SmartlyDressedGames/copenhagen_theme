@@ -4726,3 +4726,10 @@ zd-summary-block {
 [dir=rtl] zd-summary-block {
   border-right-color: #859fa1;
 }
+
+/* Move background to focus on leftmost zombies for mobile devices. */
+@media only screen and (max-width: 767px) {
+	.hero {
+		background-position: left;
+	}
+}
